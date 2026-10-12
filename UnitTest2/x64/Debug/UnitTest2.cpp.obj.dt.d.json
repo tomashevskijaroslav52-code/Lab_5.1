@@ -4,7 +4,6 @@
         "Source": "c:\\users\\admin\\source\\repos\\lab_5.1\\unittest2\\unittest2.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\admin\\source\\repos\\lab_5.1\\unittest2\\pch.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\auxiliary\\vs\\unittest\\include\\cppunittest.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\auxiliary\\vs\\unittest\\include\\cppunittestcommon.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\sdkddkver.h",

@@ -1,4 +1,4 @@
-#include "pch.h"
+// Test branch update
 #include "CppUnitTest.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
